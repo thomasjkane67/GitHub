@@ -17,3 +17,10 @@ echo "# GitHub" >> README.md
 - You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
 https://github.com/thomasjkane67/GitHub/import
+
+### Add un-tracked files
+
+- git add <filename>
+- git push -u origin master
+  
+https://learn.sparkfun.com/tutorials/using-github-to-share-with-sparkfun/all
