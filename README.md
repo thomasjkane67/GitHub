@@ -26,6 +26,9 @@ https://github.com/thomasjkane67/GitHub/import
   
 https://learn.sparkfun.com/tutorials/using-github-to-share-with-sparkfun/all
 
+### Pull down files
+
+- git pull --all
 
 ### Markdown
 
