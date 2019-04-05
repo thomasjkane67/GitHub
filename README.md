@@ -23,6 +23,11 @@ https://github.com/thomasjkane67/GitHub/import
 - **git add <filename>** _or_ **git add .** (to add all files)
 - git commit -m "first commit" .
 - git push -u origin master
+
+#### oneline
+
+- git add .; git commit -m "commit"; git push -u origin master
+- git add .; git commit -m "commit"; git push -u origin master --force
   
 https://learn.sparkfun.com/tutorials/using-github-to-share-with-sparkfun/all
 
